@@ -13,12 +13,15 @@
 # 📱 Telegram Channels:
 
 🌍 DistroWatch
+
 https://t.me/DistroWatchUnofficial
 
 🐧 Linux News (Tutorials & Beyond!)
+
 https://t.me/LinuxStuffUnofficial
 
 🖥️ General Tech News
+
 https://t.me/GeneralTechNewsUnofficial
 
 ---
