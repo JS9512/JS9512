@@ -7,7 +7,7 @@
 
 
 # 📱 Telegram Channels:
-🌐 https://t.me/DistroWatchUnofficial
+🌍 https://t.me/DistroWatchUnofficial
 
 🐧 https://t.me/LinuxStuffUnofficial
 
