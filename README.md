@@ -17,7 +17,7 @@
 
 https://t.me/DistroWatchUnofficial
 
-🐧 Linux News (Tutorials & Beyond!)
+🐧 Linux Beyond
 
 https://t.me/LinuxStuffUnofficial
 
