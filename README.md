@@ -21,6 +21,10 @@ https://t.me/DistroWatchUnofficial
 
 https://t.me/LinuxStuffUnofficial
 
+📦 FlatHub Updates
+
+https://t.me/FlathubUnofficial
+
 
 ---
 
